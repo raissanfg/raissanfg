@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Beginner Front End Developer actively seeking job opportunity. <br>
+- 🔭 Front End Developer actively seeking job opportunity. <br>
 - 🌱 Currently Honing my React skills. <br>
 
 
