@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 Front End Developer actively seeking job opportunity. <br>
-- 🌱 Currently Honing my React skills. <br>
+- 🔭 Front End Developer <br>
+- 🌱 Currently Honing my Web Development skills @labenu <br>
 
 
 ## Connect with me
