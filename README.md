@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Front End Developer <br>
-- 🌱 Currently Honing my Web Development skills @labenu <br>
+
 
 
 ## Connect with me
